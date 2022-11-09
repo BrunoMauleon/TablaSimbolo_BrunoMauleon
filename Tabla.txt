@@ -1,0 +1,46 @@
+package PALRE package  
+UNPA.WinForm.compiladores ID ID UNPA.WinForm.compiladores
+; OPESP DEL  
+public PALRE public  
+class PALRE class  
+If_Project ID ID If_Project
+{ OPESP LLI  
+public PALRE public  
+static PALRE static  
+void PALRE void  
+main ID ID main
+( OPESP PIZ  
+String PALRE String  
+[ OPESP COI  
+] OPESP COD  
+args ID ID args
+) OPESP PDE  
+{ OPESP LLI  
+int PALRE int  
+i ID ID i
+= OPASI ASI  
+20 NUM NUM 20
+; OPESP DEL  
+if PALRE if  
+( OPESP PIZ  
+i ID ID i
+< OPREL MEN  
+15 NUM NUM 15
+) OPESP PDE  
+{ OPESP LLI  
+System.out.println PALRE println  
+( OPESP PIZ  
+"soy menor que 15" MSG MSG "soy menor que 15"
+) OPESP PDE  
+; OPESP DEL  
+} OPESP LLD  
+else PALRE else  
+{ OPESP LLI  
+System.out.println PALRE println  
+( OPESP PIZ  
+"soy mayor que 15" MSG MSG "soy mayor que 15"
+) OPESP PDE  
+; OPESP DEL  
+} OPESP LLD  
+} OPESP LLD  
+} OPESP LLD  

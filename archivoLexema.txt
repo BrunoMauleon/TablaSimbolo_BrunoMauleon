@@ -1,0 +1,9 @@
+package ID DEL
+public class ID LLI
+public static void ID PIZ String COI COD ID PDE LLI
+int ID ASI NUM DEL
+if PIZ ID MEN NUM PDE LLI
+println PIZ MSG PDE DEL
+LLD else LLI
+println PIZ MSG PDE DEL
+LLD LLD LLD 

@@ -1,0 +1,24 @@
+* and open the template in the editor.
+*/
+package UNPA.WinForm.compiladores;
+
+/**
+*
+*
+* @autor bruno_
+*/
+public class If_Project{
+     /**
+       * @param args the command line arguments
+        */
+          public static void main(String[] args){
+         //TODO code application logic here
+        int i = 20;
+        if(i<15){
+           System.out.println("soy menor que 15");
+        }
+        else{
+           System.out.println("soy mayor que 15");
+        }
+    }
+}
